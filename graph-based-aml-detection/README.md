@@ -8,6 +8,10 @@ This project implements a graph-based AML detection pipeline that models banking
 
 ---
 
+## Notebook Link :- https://www.kaggle.com/code/ojhacodes/ibm-anti-money-laundering
+
+---
+
 ## Problem Statement
 
 Financial institutions process millions of transactions daily. Detecting suspicious activity is difficult because money laundering often occurs through networks of accounts rather than isolated transactions.
