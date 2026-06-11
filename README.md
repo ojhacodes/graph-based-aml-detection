@@ -196,8 +196,8 @@ The model successfully combines graph structure and transaction behavior to iden
 
 ## Author
 
-Atish Kumar Kushwaha
-
+Ayush Ojha
+NIT Rourkela
 B.Tech Computer Science and Engineering
 
 Project Focus:
